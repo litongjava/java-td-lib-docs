@@ -5,7 +5,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
-  title: 'tdlib',
+  title: 'Java Tdlib',
   description: 'Telegram Database Library',
 
   theme: defaultTheme({
